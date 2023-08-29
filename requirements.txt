@@ -1,7 +1,7 @@
 asgiref @ file:///Users/cbousseau/work/recipes/ci_py311/asgiref_1677957028708/work
 boltons @ file:///Users/cbousseau/work/recipes/ci_py311/boltons_1677965141748/work
 brotlipy==0.7.0
-certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3bweqb8byn/croot/certifi_1690232244779/work/certifi
+certifi==2023.7.22
 cffi @ file:///Users/cbousseau/work/recipes/ci_py311/cffi_1677903595907/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 conda @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4eoq6pno4r/croot/conda_1692724504574/work
@@ -10,6 +10,7 @@ conda-package-handling @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt50
 conda_package_streaming @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_aecpaup22q/croot/conda-package-streaming_1690987978274/work
 cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4a_lrlt_rt/croot/cryptography_1686613068564/work
 Django @ file:///Users/cbousseau/work/recipes/ci_py311/django_1677970851911/work
+gunicorn @ file:///Users/cbousseau/work/recipes/ci_py311/gunicorn_1677972141564/work
 idna @ file:///Users/cbousseau/work/recipes/ci_py311/idna_1677906072337/work
 jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
